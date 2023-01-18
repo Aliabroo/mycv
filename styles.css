@@ -1,0 +1,36 @@
+* {
+  /* padding: 0;
+  margin: 0;
+  box-sizing: border-box; */
+  color: aliceblue;
+}
+
+html {
+  /* font-size: 10px; */
+  /* 10px / 16px = 0.625 62.5 */
+  /* Percentage of users browser font-size setting */
+  font-size: 62.5%;
+  overflow-x: hidden;
+  background-color: black;
+}
+
+img {
+  border-radius: 10px;
+  box-shadow: 7px 5px 10px #16425b;
+}
+
+h3 {
+  padding-left: 25px;
+}
+
+.intro {
+  margin-left: 50px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+.self-imp {
+  font-size: 20px;
+  margin-left: 50px;
+}
